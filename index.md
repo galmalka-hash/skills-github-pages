@@ -2,5 +2,4 @@
 title: Welcome to my blog
 ---
 
-First time using github pages :)
-
+# First time using github pages :)
